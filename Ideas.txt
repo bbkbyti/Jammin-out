@@ -1,0 +1,16 @@
+Music App
+
+Name : String
+Artist : String
+Cover ART : URL
+Label : String
+Genre : String
+Track List : // maybe array, "","",""
+Year : Number / Date
+
+Greatest Hits: Array, ""
+Debut: Date / Number
+
+
+// Base = https://api.airtable.com/v0/app3TuhDZkrRMsd03/albums 
+
